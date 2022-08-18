@@ -261,4 +261,4 @@ async def mcabout(ctx, nick: Option(str, required=True)):
 
 
 # Bot Commands
-bot.run("OTYxMjAxMDQ2Nzc1MDA5MzEw.Yk1iOw.6hM79xJtiYkMbOJr5stbfzEyktM")
+bot.run("no token for u")
