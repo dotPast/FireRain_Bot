@@ -1,2 +1,2 @@
 # FireRain
-Тупо бот лул
+a project that was never finished
